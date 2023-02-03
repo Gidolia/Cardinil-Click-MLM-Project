@@ -1,0 +1,27 @@
+[03-Feb-2020 11:26:56 UTC] PHP Warning:  include(database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 1
+[03-Feb-2020 11:26:56 UTC] PHP Warning:  include(): Failed opening 'database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 1
+[03-Feb-2020 11:26:56 UTC] PHP Notice:  Use of undefined constant submit_msg - assumed 'submit_msg' in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 132
+[03-Feb-2020 11:52:37 UTC] PHP Warning:  include(database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 1
+[03-Feb-2020 11:52:37 UTC] PHP Warning:  include(): Failed opening 'database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 1
+[03-Feb-2020 11:52:37 UTC] PHP Notice:  Use of undefined constant submit_msg - assumed 'submit_msg' in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 132
+[03-Feb-2020 11:53:44 UTC] PHP Warning:  include(database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 1
+[03-Feb-2020 11:53:44 UTC] PHP Warning:  include(): Failed opening 'database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 1
+[03-Feb-2020 11:53:44 UTC] PHP Notice:  Use of undefined constant submit_msg - assumed 'submit_msg' in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 132
+[03-Feb-2020 11:54:32 UTC] PHP Warning:  include(database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 1
+[03-Feb-2020 11:54:32 UTC] PHP Warning:  include(): Failed opening 'database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 1
+[03-Feb-2020 11:54:32 UTC] PHP Notice:  Use of undefined constant submit_msg - assumed 'submit_msg' in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 132
+[03-Feb-2020 11:54:44 UTC] PHP Warning:  include(database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 1
+[03-Feb-2020 11:54:44 UTC] PHP Warning:  include(): Failed opening 'database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 1
+[03-Feb-2020 11:54:44 UTC] PHP Notice:  Use of undefined constant submit_msg - assumed 'submit_msg' in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 132
+[03-Feb-2020 11:59:25 UTC] PHP Warning:  include(database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/new_template/signin.php on line 1
+[03-Feb-2020 11:59:25 UTC] PHP Warning:  include(): Failed opening 'database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/new_template/signin.php on line 1
+[03-Feb-2020 11:59:25 UTC] PHP Notice:  Use of undefined constant submit_msg - assumed 'submit_msg' in /home/pzv6xngxu5ql/public_html/new_template/signin.php on line 107
+[03-Feb-2020 17:22:14 UTC] PHP Warning:  include(database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/new_template/signup.php on line 1
+[03-Feb-2020 17:22:14 UTC] PHP Warning:  include(): Failed opening 'database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/new_template/signup.php on line 1
+[03-Feb-2020 17:22:14 UTC] PHP Notice:  Use of undefined constant submit_signup - assumed 'submit_signup' in /home/pzv6xngxu5ql/public_html/new_template/signup.php on line 228
+[03-Feb-2020 17:37:46 UTC] PHP Warning:  include(database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/new_template/signup.php on line 1
+[03-Feb-2020 17:37:46 UTC] PHP Warning:  include(): Failed opening 'database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/new_template/signup.php on line 1
+[03-Feb-2020 17:37:46 UTC] PHP Notice:  Use of undefined constant submit_signup - assumed 'submit_signup' in /home/pzv6xngxu5ql/public_html/new_template/signup.php on line 228
+[03-Feb-2020 18:25:26 UTC] PHP Warning:  include(database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 1
+[03-Feb-2020 18:25:26 UTC] PHP Warning:  include(): Failed opening 'database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 1
+[03-Feb-2020 18:25:26 UTC] PHP Notice:  Use of undefined constant submit_msg - assumed 'submit_msg' in /home/pzv6xngxu5ql/public_html/new_template/contact.php on line 132

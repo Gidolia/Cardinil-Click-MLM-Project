@@ -1,0 +1,420 @@
+[28-Apr-2019 23:52:23 Asia/Calcutta] PHP Fatal error:  Call to undefined function mysql_nums_rows() in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/login.php on line 69
+[28-Apr-2019 23:54:09 Asia/Calcutta] PHP Fatal error:  Call to undefined function mysql_nums_rows() in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/login.php on line 69
+[28-Apr-2019 23:54:17 Asia/Calcutta] PHP Fatal error:  Call to undefined function mysql_nums_rows() in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/login.php on line 69
+[29-Apr-2019 01:07:39 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/include/header.php on line 11
+[29-Apr-2019 01:07:39 UTC] PHP Notice:  Undefined variable: ibo_detail in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/include/header.php on line 11
+[01-May-2019 10:04:52 UTC] PHP Warning:  mysql_query(): Access denied for user 'gidolia'@'localhost' (using password: NO) in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/functions.php on line 7
+[01-May-2019 10:04:52 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/functions.php on line 7
+[02-May-2019 04:20:43 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_own_nbv() in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/functions.php on line 124
+[03-May-2019 10:06:23 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[03-May-2019 10:06:23 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 10:27:43 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 10:27:43 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 10:30:21 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 10:30:21 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 10:32:16 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 10:32:16 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 10:34:13 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 10:34:13 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 10:47:04 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 10:47:04 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 10:48:15 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 10:48:15 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 10:50:18 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 10:50:18 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 10:50:39 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 10:50:39 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 10:52:15 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 10:52:15 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 10:55:14 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 10:55:14 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 11:31:18 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 11:31:18 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 11:32:05 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 11:32:05 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 11:35:29 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 11:35:29 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 11:36:28 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 11:36:28 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 11:37:01 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 11:37:01 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 11:37:53 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 11:37:53 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 11:39:29 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 11:39:29 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 11:39:40 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 11:39:40 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 11:47:34 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 11:47:34 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[04-May-2019 11:48:18 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[04-May-2019 11:48:18 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[06-May-2019 07:11:32 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/index.php on line 174
+[06-May-2019 07:13:30 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/index.php on line 162
+[06-May-2019 07:26:59 Asia/Calcutta] PHP Fatal error:  Call to a member function format() on a non-object in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/index.php on line 165
+[06-May-2019 07:28:29 Asia/Calcutta] PHP Fatal error:  Call to a member function format() on a non-object in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/index.php on line 165
+[06-May-2019 09:12:34 Asia/Calcutta] PHP Fatal error:  Call to a member function format() on a non-object in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/index.php on line 165
+[06-May-2019 09:12:37 Asia/Calcutta] PHP Fatal error:  Call to a member function format() on a non-object in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/index.php on line 165
+[06-May-2019 03:57:27 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[06-May-2019 03:57:27 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[07-May-2019 18:31:54 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[07-May-2019 18:31:54 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[12-May-2019 01:26:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/kyc.php on line 175
+[12-May-2019 11:27:14 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[12-May-2019 11:27:14 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[13-May-2019 01:48:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/pass_change.php on line 169
+[14-May-2019 07:09:46 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_own_rbv() in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/rbv_current_month_cal.php on line 78
+[14-May-2019 07:11:19 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_own_rbv() in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/rbv_current_month_cal.php on line 78
+[14-May-2019 03:39:35 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[14-May-2019 03:39:35 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[14-May-2019 03:40:48 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[14-May-2019 03:40:48 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[14-May-2019 03:51:41 UTC] PHP Fatal error:  Cannot use [] for reading in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/rbv_current_month_cal.php on line 96
+[14-May-2019 09:22:26 Asia/Calcutta] PHP Fatal error:  Call to undefined function int() in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/rbv_current_month_cal.php on line 97
+[14-May-2019 04:02:58 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 3
+[14-May-2019 04:02:58 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/logout.php on line 4
+[14-May-2019 10:32:45 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_first_royalty_id() in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/rbv_current_month_cal.php on line 109
+[14-May-2019 10:33:14 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_first_royalty_id() in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/rbv_current_month_cal.php on line 109
+[14-May-2019 10:33:28 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_first_royalty_id() in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/rbv_current_month_cal.php on line 109
+[14-May-2019 10:36:06 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_first_royalty_id() in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/rbv_current_month_cal.php on line 109
+[14-May-2019 05:35:34 UTC] PHP Fatal error:  Cannot use [] for reading in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/functions.php on line 684
+[14-May-2019 05:35:55 UTC] PHP Fatal error:  Cannot use [] for reading in /home/gidolia/public_html/project/inspire_aura/ibo_panel/production/functions.php on line 696
+[14-May-2019 18:42:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[14-May-2019 18:51:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 06:30:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 06:45:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 06:45:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 06:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 06:47:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 06:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 06:51:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 06:51:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 06:51:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 06:51:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 06:51:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 06:51:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 06:51:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 07:16:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 07:16:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 07:17:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php:3
+Stack trace:
+#0 /home/gkyk0xji4rs0/public_html/ibo_panel/production/config.php(3): include()
+#1 /home/gkyk0xji4rs0/public_html/ibo_panel/production/index.php(1): include('/home/gkyk0xji4...')
+#2 {main}
+  thrown in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 07:19:37 UTC] PHP Fatal error:  Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 07:19:40 UTC] PHP Fatal error:  Call to undefined function mysql_connect() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/database_connect.php on line 3
+[15-May-2019 08:30:10 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[15-May-2019 08:30:10 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[15-May-2019 08:42:12 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[15-May-2019 08:42:12 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[15-May-2019 17:06:37 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[15-May-2019 17:06:37 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[15-May-2019 17:12:26 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[15-May-2019 17:12:26 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[16-May-2019 18:05:29 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[16-May-2019 18:05:29 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[17-May-2019 01:42:25 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[17-May-2019 01:42:25 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[17-May-2019 01:42:25 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[17-May-2019 01:42:25 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[17-May-2019 17:39:49 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_today_pair_matching() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/direct_referal.php on line 101
+[17-May-2019 17:40:55 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_today_pair_matching() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/direct_referal.php on line 101
+[17-May-2019 17:41:19 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_today_pair_matching() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/direct_referal.php on line 101
+[17-May-2019 17:41:52 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_today_pair_matching() in /home/gkyk0xji4rs0/public_html/ibo_panel/production/direct_referal.php on line 101
+[19-May-2019 01:11:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gkyk0xji4rs0/public_html/ibo_panel/production/tree_view.php on line 170
+[19-May-2019 01:11:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gkyk0xji4rs0/public_html/ibo_panel/production/tree_view.php on line 170
+[19-May-2019 01:12:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gkyk0xji4rs0/public_html/ibo_panel/production/tree_view.php on line 170
+[19-May-2019 01:12:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gkyk0xji4rs0/public_html/ibo_panel/production/tree_view.php on line 170
+[19-May-2019 01:12:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gkyk0xji4rs0/public_html/ibo_panel/production/tree_view.php on line 170
+[19-May-2019 01:13:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gkyk0xji4rs0/public_html/ibo_panel/production/tree_view.php on line 170
+[19-May-2019 02:08:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gkyk0xji4rs0/public_html/ibo_panel/production/my_network_tree_view.php on line 152
+[19-May-2019 09:10:27 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[19-May-2019 09:10:27 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[19-May-2019 11:46:13 UTC] PHP Notice:  Undefined index: q in /home/gkyk0xji4rs0/public_html/ibo_panel/production/p_no.php on line 2
+[19-May-2019 14:16:38 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[19-May-2019 14:16:38 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[19-May-2019 14:19:12 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[19-May-2019 14:19:12 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[19-May-2019 14:32:27 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[19-May-2019 14:32:27 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[19-May-2019 14:34:46 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[19-May-2019 14:34:46 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[20-May-2019 00:50:58 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[20-May-2019 00:50:58 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[20-May-2019 02:05:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gkyk0xji4rs0/public_html/ibo_panel/production/hold_wallet.php on line 162
+[20-May-2019 02:05:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gkyk0xji4rs0/public_html/ibo_panel/production/hold_wallet.php on line 162
+[20-May-2019 13:04:30 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[20-May-2019 13:04:30 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[20-May-2019 13:06:04 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[20-May-2019 13:06:04 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[21-May-2019 05:52:22 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[21-May-2019 05:52:22 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[21-May-2019 05:53:52 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[21-May-2019 05:53:52 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[22-May-2019 14:01:46 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[22-May-2019 14:01:46 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[24-May-2019 01:31:12 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[24-May-2019 01:31:12 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[24-May-2019 01:46:05 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[24-May-2019 01:46:05 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[24-May-2019 01:46:06 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[24-May-2019 01:46:06 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[24-May-2019 01:51:18 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[24-May-2019 01:51:18 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[24-May-2019 01:51:30 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[24-May-2019 01:51:30 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[24-May-2019 14:00:33 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 3
+[24-May-2019 14:00:33 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/gkyk0xji4rs0/public_html/ibo_panel/production/logout.php on line 4
+[24-Jan-2020 23:23:27 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_today_pair_matching() in /home/pzv6xngxu5ql/public_html/ibo_panel/production/index.php on line 228
+[24-Jan-2020 23:28:31 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_own_rbv() in /home/pzv6xngxu5ql/public_html/ibo_panel/production/index.php on line 279
+[24-Jan-2020 23:37:56 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_new_count_leg_cf_date() in /home/pzv6xngxu5ql/public_html/ibo_panel/production/index.php on line 349
+[24-Jan-2020 23:38:04 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_new_count_leg_cf_date() in /home/pzv6xngxu5ql/public_html/ibo_panel/production/index.php on line 349
+[24-Jan-2020 23:39:12 Asia/Calcutta] PHP Fatal error:  Call to undefined function find_under_nbv() in /home/pzv6xngxu5ql/public_html/ibo_panel/production/index.php on line 398
+[25-Jan-2020 16:15:11 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[25-Jan-2020 16:15:11 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[26-Jan-2020 18:10:35 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[26-Jan-2020 18:10:35 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[27-Jan-2020 10:58:51 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[27-Jan-2020 10:58:51 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[27-Jan-2020 11:02:18 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[27-Jan-2020 11:02:18 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[28-Jan-2020 18:37:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pzv6xngxu5ql/public_html/ibo_panel/production/acc_balance.php on line 291
+[29-Jan-2020 09:27:48 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[29-Jan-2020 09:27:48 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[01-Feb-2020 17:11:45 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[01-Feb-2020 17:11:45 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[01-Feb-2020 17:12:13 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[01-Feb-2020 17:12:13 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[01-Feb-2020 17:14:02 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[01-Feb-2020 17:14:02 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[01-Feb-2020 17:29:14 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[01-Feb-2020 17:29:15 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[01-Feb-2020 17:30:34 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[01-Feb-2020 17:30:34 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[03-Feb-2020 18:51:11 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[03-Feb-2020 18:51:11 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[05-Feb-2020 09:06:46 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[05-Feb-2020 09:06:46 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[05-Feb-2020 14:43:04 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[05-Feb-2020 14:43:04 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[06-Feb-2020 17:51:43 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[06-Feb-2020 17:51:43 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[06-Feb-2020 17:56:44 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[06-Feb-2020 17:56:44 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[07-Feb-2020 07:40:36 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[07-Feb-2020 07:40:36 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[07-Feb-2020 17:50:19 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[07-Feb-2020 17:50:19 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[08-Feb-2020 02:36:05 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[08-Feb-2020 02:36:05 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[08-Feb-2020 02:37:12 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[08-Feb-2020 02:37:12 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[08-Feb-2020 02:37:40 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[08-Feb-2020 02:37:40 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[14-Feb-2020 15:41:45 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[14-Feb-2020 15:41:45 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[14-Feb-2020 15:44:34 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[14-Feb-2020 15:44:34 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[15-Feb-2020 07:09:34 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[15-Feb-2020 07:09:34 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[15-Feb-2020 15:56:14 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[15-Feb-2020 15:56:14 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[16-Feb-2020 15:49:21 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[16-Feb-2020 15:49:21 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[16-Feb-2020 15:49:49 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[16-Feb-2020 15:49:49 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[16-Feb-2020 16:21:30 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[16-Feb-2020 16:21:30 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[16-Feb-2020 16:21:46 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[16-Feb-2020 16:21:46 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[16-Feb-2020 16:42:50 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[16-Feb-2020 16:42:50 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[17-Feb-2020 06:15:16 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[17-Feb-2020 06:15:16 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[17-Feb-2020 14:04:01 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[17-Feb-2020 14:04:01 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[17-Feb-2020 14:05:52 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[17-Feb-2020 14:05:52 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[18-Feb-2020 07:04:39 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[18-Feb-2020 07:04:39 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[18-Feb-2020 07:05:07 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[18-Feb-2020 07:05:07 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[18-Feb-2020 15:12:14 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[18-Feb-2020 15:12:14 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[18-Feb-2020 18:55:36 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[18-Feb-2020 18:55:36 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[18-Feb-2020 18:56:42 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[18-Feb-2020 18:56:42 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[19-Feb-2020 08:04:25 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[19-Feb-2020 08:04:25 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[19-Feb-2020 08:05:00 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[19-Feb-2020 08:05:00 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[19-Feb-2020 19:32:22 UTC] PHP Parse error:  syntax error, unexpected 'button' (T_STRING), expecting ',' or ';' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/downline_list.php on line 116
+[19-Feb-2020 19:32:24 UTC] PHP Parse error:  syntax error, unexpected 'button' (T_STRING), expecting ',' or ';' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/downline_list.php on line 116
+[20-Feb-2020 13:06:11 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[20-Feb-2020 13:06:11 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[20-Feb-2020 13:06:59 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[20-Feb-2020 13:06:59 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[21-Feb-2020 02:51:39 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[21-Feb-2020 02:51:40 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[21-Feb-2020 07:48:36 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[21-Feb-2020 07:48:36 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[21-Feb-2020 18:07:47 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[21-Feb-2020 18:07:47 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[22-Feb-2020 06:18:20 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[22-Feb-2020 06:18:20 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[22-Feb-2020 08:53:59 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[22-Feb-2020 08:53:59 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[22-Feb-2020 14:19:13 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[22-Feb-2020 14:19:13 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[22-Feb-2020 17:44:34 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[22-Feb-2020 17:44:34 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[22-Feb-2020 20:59:53 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[22-Feb-2020 20:59:53 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[23-Feb-2020 02:48:00 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[23-Feb-2020 02:48:00 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[23-Feb-2020 02:48:26 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[23-Feb-2020 02:48:26 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[23-Feb-2020 02:54:04 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[23-Feb-2020 02:54:04 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[24-Feb-2020 14:16:13 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[24-Feb-2020 14:16:14 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[24-Feb-2020 14:16:58 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[24-Feb-2020 14:16:58 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[26-Feb-2020 03:46:17 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[26-Feb-2020 03:46:17 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[26-Feb-2020 04:36:55 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[26-Feb-2020 04:36:55 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[26-Feb-2020 12:44:53 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[26-Feb-2020 12:44:53 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[26-Feb-2020 13:05:26 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[26-Feb-2020 13:05:26 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[26-Feb-2020 13:09:14 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[26-Feb-2020 13:09:14 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[27-Feb-2020 17:55:57 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[27-Feb-2020 17:55:58 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[01-Mar-2020 15:58:30 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[01-Mar-2020 15:58:30 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[01-Mar-2020 16:37:50 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[01-Mar-2020 16:37:50 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[02-Mar-2020 09:12:07 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[02-Mar-2020 09:12:07 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[02-Mar-2020 09:12:50 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[02-Mar-2020 09:12:50 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[02-Mar-2020 14:07:57 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[02-Mar-2020 14:07:57 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[03-Mar-2020 07:09:30 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[03-Mar-2020 07:09:30 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[03-Mar-2020 12:50:52 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[03-Mar-2020 12:50:52 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[04-Mar-2020 06:55:10 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[04-Mar-2020 06:55:10 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[04-Mar-2020 13:07:41 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[04-Mar-2020 13:07:41 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[06-Mar-2020 00:33:06 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[06-Mar-2020 00:33:06 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[06-Mar-2020 06:07:51 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[06-Mar-2020 06:07:51 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[09-Mar-2020 08:47:19 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[09-Mar-2020 08:47:19 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[09-Mar-2020 08:47:52 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[09-Mar-2020 08:47:52 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[09-Mar-2020 19:39:54 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[09-Mar-2020 19:39:54 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[11-Mar-2020 04:30:55 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[11-Mar-2020 04:30:55 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[11-Mar-2020 18:04:32 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[11-Mar-2020 18:04:32 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[13-Mar-2020 09:16:10 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[13-Mar-2020 09:16:10 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[13-Mar-2020 09:16:35 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[13-Mar-2020 09:16:35 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[13-Mar-2020 13:53:55 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[13-Mar-2020 13:53:55 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4
+[17-Mar-2020 03:58:19 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 3
+[17-Mar-2020 03:58:20 UTC] PHP Notice:  Use of undefined constant ibo_password - assumed 'ibo_password' in /home/pzv6xngxu5ql/public_html/ibo_panel/production/logout.php on line 4

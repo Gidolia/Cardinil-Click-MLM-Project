@@ -1,0 +1,61 @@
+[25-Jan-2020 05:29:40 UTC] PHP Warning:  include(database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/config.php on line 3
+[25-Jan-2020 05:29:40 UTC] PHP Warning:  include(): Failed opening 'database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/config.php on line 3
+[25-Jan-2020 05:29:40 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/index.php on line 2
+[25-Jan-2020 05:29:40 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/index.php on line 2
+[25-Jan-2020 05:29:40 UTC] PHP Notice:  Use of undefined constant ibo_name - assumed 'ibo_name' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/sidebar.php on line 17
+[25-Jan-2020 05:29:40 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/sidebar.php on line 17
+[25-Jan-2020 05:29:40 UTC] PHP Notice:  Use of undefined constant ibo_name - assumed 'ibo_name' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 05:29:40 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 05:29:40 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 05:29:40 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:16:01 UTC] PHP Warning:  include(database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/config.php on line 3
+[25-Jan-2020 15:16:01 UTC] PHP Warning:  include(): Failed opening 'database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/config.php on line 3
+[25-Jan-2020 15:16:01 UTC] PHP Notice:  Use of undefined constant activate_submit - assumed 'activate_submit' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/process_activate_link1.php on line 4
+[25-Jan-2020 15:16:43 UTC] PHP Warning:  include(database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/config.php on line 3
+[25-Jan-2020 15:16:43 UTC] PHP Warning:  include(): Failed opening 'database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/config.php on line 3
+[25-Jan-2020 15:16:43 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/index.php on line 2
+[25-Jan-2020 15:16:43 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/index.php on line 2
+[25-Jan-2020 15:16:43 UTC] PHP Notice:  Use of undefined constant ibo_name - assumed 'ibo_name' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/sidebar.php on line 17
+[25-Jan-2020 15:16:43 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/sidebar.php on line 17
+[25-Jan-2020 15:16:43 UTC] PHP Notice:  Use of undefined constant ibo_name - assumed 'ibo_name' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:16:43 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:16:43 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:16:43 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:16:47 UTC] PHP Warning:  include(database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/config.php on line 3
+[25-Jan-2020 15:16:47 UTC] PHP Warning:  include(): Failed opening 'database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/config.php on line 3
+[25-Jan-2020 15:16:47 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/downline_list.php on line 2
+[25-Jan-2020 15:16:47 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/downline_list.php on line 2
+[25-Jan-2020 15:16:47 UTC] PHP Notice:  Use of undefined constant ibo_name - assumed 'ibo_name' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/sidebar.php on line 17
+[25-Jan-2020 15:16:47 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/sidebar.php on line 17
+[25-Jan-2020 15:16:47 UTC] PHP Notice:  Use of undefined constant ibo_name - assumed 'ibo_name' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:16:47 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:16:47 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:16:47 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:16:47 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/downline_list.php on line 162
+[25-Jan-2020 15:16:47 UTC] PHP Warning:  mysql_query(): Access denied for user 'pzv6xngxu5ql'@'localhost' (using password: NO) in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/downline_list.php on line 162
+[25-Jan-2020 15:16:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/downline_list.php on line 162
+[25-Jan-2020 15:16:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/downline_list.php on line 163
+[25-Jan-2020 15:17:53 UTC] PHP Warning:  include(database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/config.php on line 3
+[25-Jan-2020 15:17:53 UTC] PHP Warning:  include(): Failed opening 'database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/config.php on line 3
+[25-Jan-2020 15:17:53 UTC] PHP Notice:  Use of undefined constant ibo_name - assumed 'ibo_name' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/sidebar.php on line 17
+[25-Jan-2020 15:17:53 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/sidebar.php on line 17
+[25-Jan-2020 15:17:53 UTC] PHP Notice:  Use of undefined constant ibo_name - assumed 'ibo_name' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:17:53 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:17:53 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:17:53 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:17:53 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/downline_list.php on line 97
+[25-Jan-2020 15:17:53 UTC] PHP Warning:  mysql_query(): Access denied for user 'pzv6xngxu5ql'@'localhost' (using password: NO) in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/downline_list.php on line 97
+[25-Jan-2020 15:17:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/downline_list.php on line 97
+[25-Jan-2020 15:17:53 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/downline_list.php on line 98
+[25-Jan-2020 15:20:06 UTC] PHP Warning:  include(../../database_connect.php): failed to open stream: No such file or directory in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/config.php on line 3
+[25-Jan-2020 15:20:06 UTC] PHP Warning:  include(): Failed opening '../../database_connect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/config.php on line 3
+[25-Jan-2020 15:20:06 UTC] PHP Notice:  Use of undefined constant ibo_name - assumed 'ibo_name' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/sidebar.php on line 17
+[25-Jan-2020 15:20:06 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/sidebar.php on line 17
+[25-Jan-2020 15:20:06 UTC] PHP Notice:  Use of undefined constant ibo_name - assumed 'ibo_name' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:20:06 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:20:06 UTC] PHP Notice:  Use of undefined constant ibo_id - assumed 'ibo_id' in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:20:06 UTC] PHP Notice:  Undefined variable: ibo_info in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/include/header.php on line 11
+[25-Jan-2020 15:20:06 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/downline_list.php on line 97
+[25-Jan-2020 15:20:06 UTC] PHP Warning:  mysql_query(): Access denied for user 'pzv6xngxu5ql'@'localhost' (using password: NO) in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/downline_list.php on line 97
+[25-Jan-2020 15:20:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/downline_list.php on line 97
+[25-Jan-2020 15:20:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pzv6xngxu5ql/public_html/admin/ibo_panel/production/downline_list.php on line 98
